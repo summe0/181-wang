@@ -3,8 +3,7 @@ name: daily-checkin
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions 使用 UTC；北京时间每天 08:00。
-    #- cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   checkin:
