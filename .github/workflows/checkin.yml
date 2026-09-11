@@ -3,14 +3,13 @@ name: daily-checkin
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions 使用 UTC；这里是北京时间每天 08:00。
-    #- cron: "0 0 * * *"
+    # GitHub Actions 使用 UTC；北京时间每天 08:00。
+    - cron: "0 0 * * *"
 
 jobs:
   checkin:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-
     env:
       CHECKIN_PASSWORD: ${{ secrets.CHECKIN_PASSWORD }}
       WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}
