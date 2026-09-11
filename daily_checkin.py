@@ -40,7 +40,7 @@ CHECK_URLS = [
 
 # 41 家单位：每条记录使用该单位自己的登录手机号。
 # 如号码实际不同，只需修改对应这一行的 username。
-CHECKINS [
+CHECKINS = [
     {"name":"程秀早餐店","url":"https://njyj-social.njyjgl.cn/spp_grid_social/index.html#/loginQuestion?entId=2b808d4e-fef9-4e39-bc01-be7ba44261b9&unitAddress=%E6%B1%9F%E8%8B%8F%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E4%B8%B0%E6%B3%BD%E8%B7%AF118%E5%8F%B727%E5%B9%A2&unitName=%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E7%A8%8B%E7%A7%80%E6%97%A9%E9%A4%90%E5%BA%97&checkId=38fb7ad4-dd5b-4ec0-91be-1e55dcf9814d&clientType=&type=2","username":"19259642542"},
     {"name":"宁琳电池","url":"https://njyj-social.njyjgl.cn/spp_grid_social/index.html#/loginQuestion?entId=d2b22098-b5d1-4ce1-a3f1-aaf94912aa0c&unitAddress=%E6%B1%9F%E8%8B%8F%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E4%B8%B0%E6%B3%BD%E8%B7%AF118%E5%8F%B730%E5%B9%A2&unitName=%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E5%AE%81%E7%8E%B2%E7%94%B5%E6%B1%A0%E9%94%80%E5%94%AE%E5%BA%97&checkId=4ebcd253-25ce-4761-af1f-ea245d88618e&clientType=&type=2","username":"19393322148"},
     {"name":"南京市江宁区登科市井川菜馆","url":"https://njyj-social.njyjgl.cn/spp_grid_social/index.html#/loginQuestion?entId=6706f228-c69f-4672-8718-040f3733a7df&unitAddress=%E6%B1%9F%E8%8B%8F%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E4%B8%B0%E6%B3%BD%E8%B7%AF118%E5%8F%B727%E5%B9%A2&unitName=%E5%8D%97%E4%BA%AC%E5%B8%82%E6%B1%9F%E5%AE%81%E5%8C%BA%E7%99%BB%E7%A7%91%E5%B8%82%E4%BA%95%E5%B7%9D%E8%8F%9C%E9%A6%86&checkId=a45e3c36-dce1-49d7-931d-e66ab7944078&clientType=&type=2","username":"17825781030"},
